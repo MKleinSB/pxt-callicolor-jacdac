@@ -14,7 +14,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
 Dank Jacdac werden vom Callicolor Neopixelring an P0 Livedaten per WebUSB übertragen oder, wenn kein Calliope mini angeschlossen ist,
 ein digitaler 12 Neopixel-Ring-Zwilling im Simulator angezeigt.
-Als kleiner Gag habe ich noch eine eigene Palette (wie beim Callicolorpaket ohne Jacdac) und einen RGB-Block in die modules-Schublade hinzugefügt.
+Als kleinen Gag habe ich noch eine eigene Palette (wie beim Callicolorpaket ohne Jacdac) und einen RGB-Block in die modules-Schublade hinzugefügt.
 
 Bei dieser Erweiterung handelt es sich um ein Softwarejacdac. Module die an einem der Jacdacports des Calliope mini 
 angeschlossen werden benötigen nach dem Laden des normalen Jacdac-Pakets keine weitere Software.

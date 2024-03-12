@@ -24,6 +24,7 @@ namespace modules {
     //% blockId=CalliColor block="%c=CalliColorNumberPicker"
     //% group="LED" weight=83
     //% c.defl=0xff0000
+    //% inlineInputMode=external
     export function CalliColor(c: number): number {
         return c;
     }

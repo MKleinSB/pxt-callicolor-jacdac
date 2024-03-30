@@ -1,7 +1,7 @@
 {
     "name": "pxt-callicolor-jacdac",
     "version": "0.1.0",
-    "description": "",
+    "description": "Softwarejacdac for Callicolor 12 Neopixel Ring",
     "dependencies": {
         "core": "*",
         "v3": "*",

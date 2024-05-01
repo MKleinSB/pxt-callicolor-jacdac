@@ -5,9 +5,9 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.25",
-        "jacdac-led": "github:microsoft/pxt-jacdac/led#v1.9.25",
-        "jacdac-led-server": "github:microsoft/pxt-jacdac/led-server#v1.9.25"
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.28",
+        "jacdac-led": "github:microsoft/pxt-jacdac/led#v1.9.28",
+        "jacdac-led-server": "github:microsoft/pxt-jacdac/led-server#v1.9.28"
     },
     "files": [
         "README.md",

@@ -2,7 +2,8 @@ namespace modules {
     /**
      * CalliColor Calliope mini LED Ring
      */
-    //% fixedInstance whenUsed block="CalliColor LED ring"
+    //% fixedInstance whenUsed block="CalliColor RGB-LED ring"
+    //% block.loc.de="CalliColor RGB-LED-Ring"
     export const CallicolorLedRing = new LedClient("CalliColor LED ring?dev=self&num_pixels=12&variant=ring")
 
     /**
@@ -37,6 +38,7 @@ namespace modules {
       */
     //% weight=3
     //% blockId="rgb" block="red %red|green %green|blue %blue"
+    //% block.loc.de="rot %red|grün %green|blau %blue"
     //% group="LED" weight=82
     export function rgb(red: number, green: number, blue: number): number {
         return ((red & 0xFF) << 16) | ((green & 0xFF) << 8) | (blue & 0xFF);
